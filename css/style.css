@@ -1,0 +1,7 @@
+
+body {
+    display: grid;
+    min-height: 100vh;
+    place-items: center;
+    font-size: 1.5rem;
+  }
